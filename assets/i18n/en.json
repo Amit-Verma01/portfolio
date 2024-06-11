@@ -1,0 +1,146 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Amit_ex.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>1 years of experience</span> developing systems, interfaces, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, NodeJS and ExpressJS</span>.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>1 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span> covering frontend developer roles with <span class='underline'>Angular,Material UI,TypeScript</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab":"Indivar Soft.",
+            "Title": "Frontend developer",
+            "Date": "January 2024 - Present",
+            "Description": [
+                "Developed and maintained a web-based application using Angular, Material, and Node.js, resulting in improved user experience and increased performance.",
+                "Implemented RESTful APIs to support multiple applications.",
+                "Creation of modules with Dynamic-Table",
+                "Implementation of continuous integration and daily backups.",
+                "Planning meetings in reports.",
+                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
+
+            ]
+        },
+        
+        {
+            "Tab": "Quizaro",
+            "Title": "Frontend developer intern",
+            "Date": "October 2023 - December 2023",
+            "Description": [
+                "Developed and maintained web applications using Angular and React.",
+                "Coding of API requests with RxJS.",
+                "Creation of modules with complex reactive forms ",
+                "Improved website performance by optimizing images",
+                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
+            ]
+        }
+       
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Edubold",
+            "Description":"This software aimed to streamline various <span class='underline'>administrative functions</span> within educational institutes, including <span class='underline'>attendance tracking,</span>  <span class='underline'>library management,</span> <span class='underline'>examination scheduling,</span> <span class='underline'>fee collection,</span> <span class='underline'>hostel management,</span> <span class='underline'>asset management,</span> <span class='underline'>finance management,</span> <span class='underline'>accounting,</span> <span class='underline'>and inventory management</span.",
+            "imgs": [
+                "assets/images/school/image1.png",
+                "assets/images/school/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "AIO tools",
+            "Description": "Website providing dashboard and tools to  <span class='underline'>simplify tracking</span> for small vendors.Provides a simple set of tools in form of an online dashboard. It would be able to help <span class='underline'> small and medium vendors</span> to use and track their  <span class='underline'>daily, monthly and yearly sales and growth</span> easily in form of a graph and charts in just few clicks.",
+            "imgs": [
+                "assets/images/aio/Picture1.png",
+                "assets/images/aio/Picture2.png"
+            ],
+            "Technologies": [
+                "React",
+                "SASS",
+                "Bootstrap",
+                "ExpressJS"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Netflix-Clone",
+            "Description": "Netflix-Clone is a web app which is built using the 3rd Party Api integration. This app shows the list of series and movies from API and also has movies/series search,detailed description and you watch trailer of that movies/series.",
+            "ghLink": "https://github.com/Amit-Verma01/Netflix-clone-Angularr",
+            "demoLink": "https://netflix-clone-angularr-3m92a80vl-amit-verma01s-projects.vercel.app/login",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Rock-Paper-Scissor Game",
+            "Description": "Rock Paper game Made with ReactJs",
+            "ghLink": "https://github.com/Amit-Verma01/Rock_paper_Scissor",
+            "demoLink": "https://rock-paper-scissor-chi-ten.vercel.app",
+            "Technologies": [
+                "ReactJs",
+                "Javascript",
+                "HTML",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Weather Applicaton",
+            "Description": "Weather Application Made with ReactJs",
+            "ghLink": "https://github.com/Amit-Verma01/Weather-app-React/tree/main",
+            "demoLink": "https://weather-app-react-rust-ten.vercel.app/",
+            "Technologies": [
+                "ReactJs",
+                "Javascript",
+                "API",
+                "HTML"
+            ]
+        },
+        {
+            "Title": "Donart-Project",
+            "Description": "DONART is a social media site for donators, volunteers and help seekers.",
+            "ghLink": "https://github.com/Amit-Verma01/Donart-Project",
+            "demoLink": "https://github.com/Amit-Verma01/Donart-Project",
+            "Technologies": [
+                "PHP",
+                "MySQL",
+                "HTML",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "",
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+    "Contact.Btn": "Say Hello"
+}
