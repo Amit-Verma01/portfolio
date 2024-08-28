@@ -4,13 +4,13 @@
     "Header.Item3": "Projects",
     "Header.Item4": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "Amit_N.pdf",
+    "Header.cvName": "amit_N.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>1 years of experience</span> developing systems, interfaces, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, NodeJS and ExpressJS</span>.",
+    "Banner.Description": "I have <span class='underline'>1 years of experience</span> developing systems, interfaces, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, NodeJS and Javascript</span>.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>1 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span> covering frontend developer roles with <span class='underline'>Angular,Material UI,TypeScript</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "In my <span class='underline'>1 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span> covering frontend developer roles with <span class='underline'>Angular,Material UI,TypeScript</span>. I have part of teams having empathy, exercising motivation to partners, and setting plans and goals together.",
         "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
@@ -86,6 +86,7 @@
             "demoLink": "https://netflix-clone-angularr-3m92a80vl-amit-verma01s-projects.vercel.app/login",
             "Technologies": [
                 "Angular",
+                "Typescript",
                 "RxJs",
                 "API",
                 "Bootstrap"
@@ -100,6 +101,18 @@
                 "ReactJs",
                 "Javascript",
                 "HTML",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Movie Finding App",
+            "Description": "App for finding Movie with Ionic Angular.In which Proper working of Search component and Movie Details component.API that used is from omdbapi",
+            "ghLink": "https://github.com/Amit-Verma01/movie-app.git",
+            "demoLink": "https://movie-app-beta-self.vercel.app/info",
+            "Technologies": [
+                "Ionic Angular",
+                "Typescript",
+                "Cordova",
                 "Bootstrap"
             ]
         },
