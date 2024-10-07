@@ -18,8 +18,8 @@
     "Experience.Jobs": [
         {
             "Tab":"Indivar Soft.",
-            "Title": "Frontend developer",
-            "Date": "January 2024 - Present",
+            "Title": "Frontend developer(Angular)",
+            "Date": "January 2024 - July 2024",
             "Description": [
                 "Developed and maintained a web-based application using Angular, Material, and Node.js, resulting in improved user experience and increased performance.",
                 "Implemented RESTful APIs to support multiple applications.",
@@ -83,7 +83,7 @@
             "Title": "Netflix-Clone",
             "Description": "Netflix-Clone is a web app which is built using the 3rd Party Api integration. This app shows the list of series and movies from API and also has movies/series search,detailed description and you watch trailer of that movies/series.",
             "ghLink": "https://github.com/Amit-Verma01/Netflix-clone-Angularr",
-            "demoLink": "https://netflix-clone-angularr-3m92a80vl-amit-verma01s-projects.vercel.app/login",
+            "demoLink": "https://netflix-clone-angularr.vercel.app/home",
             "Technologies": [
                 "Angular",
                 "Typescript",
