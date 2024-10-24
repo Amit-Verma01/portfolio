@@ -19,7 +19,7 @@
         {
             "Tab":"Indivar Soft.",
             "Title": "Frontend developer(Angular)",
-            "Date": "January 2024 - July 2024",
+            "Date": "January 2024 - September 2024",
             "Description": [
                 "Developed and maintained a web-based application using Angular, Material, and Node.js, resulting in improved user experience and increased performance.",
                 "Implemented RESTful APIs to support multiple applications.",
@@ -138,6 +138,16 @@
                 "MySQL",
                 "HTML",
                 "Bootstrap"
+            ]
+        },
+        {
+            "Title": "3D-Image-Slider",
+            "Description": "3D-Image-Slider Using Only CSS and HTML.",
+            "ghLink": "https://github.com/Amit-Verma01/3D-Image-Slider",
+            "demoLink":"https://amit-verma01.github.io/3D-Image-Slider/",
+            "Technologies": [
+                "HTML",
+                "CSS"
             ]
         },
         {
