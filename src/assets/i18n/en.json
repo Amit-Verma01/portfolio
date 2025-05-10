@@ -6,7 +6,7 @@
     "Header.cvBtn": "Resume",
     "Header.cvName": "amit_n.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>1 years of experience</span> developing systems, interfaces, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, NodeJS and Javascript</span>.",
+    "Banner.Description": "I have <span class='underline'>1 years of experience</span> developing systems, interfaces, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and Javascript</span>.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
@@ -16,9 +16,31 @@
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
+      {
+        "Tab":"PR Krishna & Co.",
+        "Title": "Associate Oracle Technical Consultant",
+        "Date": "May 2025 - Present",
+        "Description": [
+          "Results-driven Oracle Technical Consultant with experience in enhancing ERP systems and automating processes using Oracle Forms, SQL, PL/SQL, and Java.",
+          "Proven expertise in optimizing workflows, developing custom reports, and providing technical support across various Oracle modules.",
+          "Skilled in data migration, customization, and performance tuning."
+
+        ]
+    },
+      {
+        "Tab":"FreeLancer",
+        "Title": "Frontend Developer",
+        "Date": "June 2024 - Present",
+        "Description": [
+            "Leverage proficiency in AngularJs, GSAP, Sass, Tailwind CSS, Bootstrap, and JavaScript to build high-performance, visually stunning websites and web applications.",
+            "Partner with clients to understand their unique needs and translate them into user-centric, interactive experiences.",
+            "Possess strong problem-solving skills and a passion for staying up-to-date with the latest front-end development trends and technologies.",
+            "Committed to clear communication and collaboration throughout the development process."
+        ]
+    },
         {
             "Tab":"Indivar Soft.",
-            "Title": "Frontend developer(Angular)",
+            "Title": "Frontend developer Intern",
             "Date": "January 2024 - September 2024",
             "Description": [
                 "Developed and maintained a web-based application using Angular, Material, and Node.js, resulting in improved user experience and increased performance.",
@@ -30,7 +52,7 @@
 
             ]
         },
-        
+
         {
             "Tab": "Quizaro",
             "Title": "Frontend developer intern",
@@ -43,7 +65,7 @@
                 "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
             ]
         }
-       
+
     ],
     "FeatureProjects.Title": "Projects that I was a part of",
     "FeatureProjects.Label": "Featured Project",

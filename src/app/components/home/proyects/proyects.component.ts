@@ -27,11 +27,7 @@ export class ProyectsComponent implements OnInit {
     public analyticsService: AnalyticsService
   ) { }
 
-  ngOnInit(): void {
-
-
-
-  }
+  ngOnInit(): void {}
 
 debug(){
 
