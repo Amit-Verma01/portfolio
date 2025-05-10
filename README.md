@@ -2,7 +2,7 @@
 I have 1 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in `Angular, NodeJS and Typescript
 
 Click the link below to open my portfolio.
-<https://github.com/Amit-Verma01> 
+<https://amit-verma01.github.io/portfolio/> 
 
 ## Development server
 
